@@ -36,7 +36,7 @@
   
   #
   
-![Chaerin-77's github stats](https://github-readme-stats.vercel.app/api?username=cherin-77&show_icons=true)
+![Chaerin-77's github stats](https://github-readme-stats.vercel.app/api?username=chaerin-77&show_icons=true)
 
     
   </div>

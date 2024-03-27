@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
   <br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaerin-77&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaerin-77&layout=compact&theme=dark)
 
   #
   

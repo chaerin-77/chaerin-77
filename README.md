@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
   <br>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaerin-77&layout=compact&theme=dark)
 
   #
   
@@ -37,6 +38,7 @@
   #
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rosachae)](https://solved.ac/rosachae)
+<br>
 ![Chaerin-77's github stats](https://github-readme-stats.vercel.app/api?username=chaerin-77&show_icons=true)
 
     

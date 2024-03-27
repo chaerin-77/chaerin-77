@@ -40,6 +40,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rosachae)](https://solved.ac/rosachae)
 <br>
 ![Chaerin-77's github stats](https://github-readme-stats.vercel.app/api?username=chaerin-77&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaerin-77&layout=compact&theme=dark)
 
     
   </div>

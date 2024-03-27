@@ -35,7 +35,8 @@
   6. 2023 관광데이터 활용 공모전 우수상
   
   #
-  
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rosachae)](https://solved.ac/rosachae)
 ![Chaerin-77's github stats](https://github-readme-stats.vercel.app/api?username=chaerin-77&show_icons=true)
 
     
